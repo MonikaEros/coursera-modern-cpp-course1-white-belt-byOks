@@ -34,7 +34,7 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 
 ## Finished apps
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [I-am-poor](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2004%20-%20I-Am-Poor)
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [Week 1](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
 
 Copyright © The App Brewery
