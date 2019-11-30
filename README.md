@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" align="right"/>[COURSERA.COM](https://www.coursera.com) | [Modern C++: Course 1 - White Belt](https://www.coursera.org/learn/c-plus-plus-white) 
 by [MIPT](https://www.mipt.ru) and [YANDEX](https://www.yandex.ru) 
-## <img src="http://educraft.tech/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_XL.jpg" height="130" /> <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/pic/16-Yandex-291-1500_430-1500_430.jpg" height="130" />
+## <img src="http://educraft.tech/media/k2/items/cache/867519228d1d5325856fc61d710ded0e_XL.jpg" height="100" /> <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/pic/16-Yandex-291-1500_430-1500_430.jpg" height="100" />
 
 ### What you'll learn:
 - [ ] Be able to build any app you want
