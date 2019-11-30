@@ -1,24 +1,17 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" align="right"/>[COURSERA.COM](https://www.coursera.com) | [Modern C++: Course 1 - White Belt](https://www.coursera.org/learn/c-plus-plus-white) 
 <img src="https://info.nyif.com/wp-content/uploads/2019/05/coursera_logo.jpg" height="15" /> by [MIPT](https://www.mipt.ru) and [YANDEX](https://www.yandex.ru) 
 ## <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/pic/16-Yandex-291-1500_430-1500_430.jpg" height="105" />
-
+Вы научитесь использовать его основные конструкции, создавать свои типы данных, разбивать программу на классы и функции.
 ### What you'll learn:
-- [ ] Be able to build any app you want
-- [ ] Build fully-fledged apps for your startup or business
-- [ ] Master creating Augmented Reality apps using Apple’s new `ARKit`
-- [ ] Craft a portfolio of apps to apply for junior developer jobs
-- [ ] Work as a freelance `iOS developer`
-- [ ] Create your first `Machine Learning` app using Apple’s new `CoreML`
+- [ ] Be able to build main constructions
+- [ ] Create your own `data types`
+- [ ] Divide your program on `classes` and `functions`
 
 ### By the end of the course, you'll completely understand:
-* Concepts of `Object Oriented Programming (OOP)`: The type system, variables, functions and methods, inheritance, `classes` and `protocols`.
-* Control Structures: Using `If/­Else` clauses, `Switch` statements and logic to control the flow of execution.
-* Data Structures: How to work with collections, such as `arrays` and `dictionaries`.
-* Software Design: How to organise and format code for readability and how to implement the `Model ­View­ Controller (MVC)` design pattern.
-* Networking: How to make asynchronous `API` calls, store and retrieve data from the `cloud`, and use the `JSON` format for server communication.
-* Machine Learning: How to make `artificially intelligent` apps using iOS 11's new `CoreML` framework.
-* Augmented Reality: How to create `3D objects` in augmented reality and create incredible animations and real-life interactions using Apple's latest `ARKit` framework.
-* `Core Data`, `Realm` and other forms of persistent data storage.
+* Data Structures: How to work with collections, such as `<vectors>` and `<maps>`.
+* Concepts of `Object Oriented Programming (OOP)`: The type system, variables, functions and methods, inheritance, `classes` and so on.
+* Understanding concepts of: `C++17`, `Algorithms`, `Computer Programming`
+
 
 ### Summary
 The summary will be added by me when I finish the course.
