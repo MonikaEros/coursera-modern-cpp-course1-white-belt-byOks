@@ -28,8 +28,8 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 :-------------:|:-------------:| :-------------: | :-----------:   |  :-----------:
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/>  	       |I-Am-Poor      | ✔️             | ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2004%20-%20I-Am-Poor)
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="17"/>	       |Dicee	       | ✔️ 		| ✔️         | [Link](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/> 	|Todoey | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="17"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="17"/> |00000000000000 | ❌ 	       | ❌         | [Link]()
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="17"/> 	|Todoey | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="17"/> |00000000000000 | ❌ 	       | ❌         | [Link]()
 
 ## Finished apps
 
