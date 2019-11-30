@@ -1,5 +1,5 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" align="right"/>[COURSERA.COM](https://www.coursera.com) | [iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp](https://www.udemy.com/ios11-app-development-bootcamp/) 
-by [Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" align="right"/>[COURSERA.COM](https://www.coursera.com) | [Modern C++: Course 1 - White Belt](https://www.coursera.org/learn/c-plus-plus-white) 
+by [MIPT](https://www.mipt.ru) and [YANDEX](https://www.yandex.ru) 
 ## <img src="https://www.udemy.com/staticx/udemy/images/v6/default-meta-image.png" width="427" height="260" /> <img src="https://i.udemycdn.com/course/480x270/1289478_5831_9.jpg" width="431" height="260" />
 
 ### What you'll learn:
