@@ -35,9 +35,6 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 ## Finished apps
 
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [Week 1](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
-
-Copyright © The App Brewery
 
 * **Skills learnt**:
 	* `Challenge 1`
@@ -49,9 +46,7 @@ Copyright © The App Brewery
 	
 	
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Dicee](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Dicee%2B.gif)
 
-Copyright © The App Brewery
 
 * **Skills learnt**:
 	* Linking Design with Code
@@ -63,26 +58,21 @@ Copyright © The App Brewery
 
 	
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="18"/> [Magic 8 Ball](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)
-![Finished app](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
-Copyright © The App Brewery
 
 * **Skills learnt**:
 	* `Challenge 2`
 
 
 
-
-
 ## Syllabus
-Section №     | Name          | Skills gained   | Date Started  | Date Finished | Current Status  
+Week №     | Name          | Skills gained   | Date Started  | Date Finished | Current Status  
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: | :-----------: | :-----------: 
-17 |<p align="left">Firebase Version 3</p>|<ul align="left"><li>-</li></ul>|27 Sep 2019|27 Sep 2019|✔️
-18 |<p align="left">Git, GitHub and Version Control</p>|<ul align="left"><li>-</li></ul>|27 Sep 2019|27 Sep 2019|✔️
-19 |<p align="left">Core Data, Realm, User Defaults - Learn Persistent Local Data Storage - Todoey</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|⚠️ **(in progress)**
-20 |<p align="left">***Course for iOS 12+  :***  In-App Purchases and Apple StoreKit</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|❌
-21-25 |<p align="left">***Course for iOS 12+  :*** Machine Learning, CoreML and CreateML</p>|<ul align="left"><li>Introduction to `machine learning`</li><li>CoreML - Using `pre-trained` machine learning models for image recognition</li><li>Using `IBM Watson Bluemix` and `Carthage` for intelligent iOS apps</li><li>Advanced CoreML - Converting a model from `Caffe` to MLModel</li><li>CreateML - Creating your own image recognition model</li><li>Advanced CreateML - Create a Twitter sentiment analysis machine learning model using `natural language processing` (NLP) tools from CreateML</li></ul>|2* Sep 2019|2* Sep 2019|❌
-26-29 |<p align="left">***Course for iOS 12+  :*** Machine Learning, CoreML and CreateML</p>|<ul align="left"><li>Introduction to `augmented reality`, `ARKit` and `SceneKit`</li><li>Creating `3D objects and text` in AR</li><li>`Animations` in AR</li><li>`Plane` detection</li><li>`Measuring` real world distances in AR</li><li>Image recognition and `tracking` in AR</li><li>`Rendering` 3D models on tracked images</li><li>Playing `videos` in real world tracked images</li></ul>|2* Sep 2019|2* Sep 2019|❌
+1 |<p align="left">Git, GitHub and Version Control</p>|<ul align="left"><li>-</li></ul>|27 Sep 2019|27 Sep 2019|✔️
+2 |<p align="left">Core Data, Realm, User Defaults - Learn Persistent Local Data Storage - Todoey</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|⚠️ **(in progress)**
+3 |<p align="left">***Course for iOS 12+  :***  In-App Purchases and Apple StoreKit</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|❌
+4 |<p align="left">***Course for iOS 12+  :*** Machine Learning, CoreML and CreateML</p>|<ul align="left"><li>Introduction to `machine learning`</li><li>CoreML - Using `pre-trained` machine learning models for image recognition</li><li>Using `IBM Watson Bluemix` and `Carthage` for intelligent iOS apps</li><li>Advanced CoreML - Converting a model from `Caffe` to MLModel</li><li>CreateML - Creating your own image recognition model</li><li>Advanced CreateML - Create a Twitter sentiment analysis machine learning model using `natural language processing` (NLP) tools from CreateML</li></ul>|2* Sep 2019|2* Sep 2019|❌
+5 |<p align="left">***Course for iOS 12+  :*** Machine Learning, CoreML and CreateML</p>|<ul align="left"><li>Introduction to `augmented reality`, `ARKit` and `SceneKit`</li><li>Creating `3D objects and text` in AR</li><li>`Animations` in AR</li><li>`Plane` detection</li><li>`Measuring` real world distances in AR</li><li>Image recognition and `tracking` in AR</li><li>`Rendering` 3D models on tracked images</li><li>Playing `videos` in real world tracked images</li></ul>|2* Sep 2019|2* Sep 2019|❌
 
 
 ## Symbol key
