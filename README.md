@@ -32,8 +32,8 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="17"/> 	|Input and Output, Execeptions and Rewriting of Operators | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="17"/> |Project | ❌ 	       | ❌         | [Link]()
 
-## Finished apps
-
+## Finished sections:
+	
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [Week 1](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
 
 * **Skills learnt**:
@@ -43,21 +43,38 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 	* `Sideloading`
 	* `UILabel`
 	* `ImageView`
-	
-	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Dicee](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2005%20-%20iOS%20Dice%20App)
 
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Week 2](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
 
 * **Skills learnt**:
-	* Linking Design with Code
-	* `IBOutlets`/`IBActions` Debugging
-	* `Swift randomisation`, `arc4random()`
-	* `Data Types`, `Constants` and `Variables`
-	* `Motion` detection
+	* `Challenge 1`
+	* How to Design iOS `Image Assets`
+	* App `Icon` Dimensions
+	* `Sideloading`
+	* `UILabel`
+	* `ImageView`
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="18"/> [Week 3](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
 
+* **Skills learnt**:
+	* `Challenge 1`
+	* How to Design iOS `Image Assets`
+	* App `Icon` Dimensions
+	* `Sideloading`
+	* `UILabel`
+	* `ImageView`
+	
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="18"/> [Week 4](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
+
+* **Skills learnt**:
+	* `Challenge 1`
+	* How to Design iOS `Image Assets`
+	* App `Icon` Dimensions
+	* `Sideloading`
+	* `UILabel`
+	* `ImageView`
 
 	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="18"/> [Magic 8 Ball](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="18"/> [Week 5](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)
 
 
 * **Skills learnt**:
