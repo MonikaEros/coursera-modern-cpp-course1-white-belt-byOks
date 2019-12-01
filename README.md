@@ -17,8 +17,8 @@
 The summary will be added by me when I finish the course.
 
 ### Tools
-* OS: MacOS Mojave, v10.14.6
-* Editor: Xcode 10.1
+* OS: MacOS Catalina, v10.15.1
+* Editor: VSCode 1.40.2
 * Git:
 	* git v2.14.3+ (Apple Git-98)
 	* hub for GitHub v2.2.9+
