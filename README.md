@@ -14,7 +14,7 @@
 
 
 ### Summary
-The summary will be added by me when I finish the course.
+The summary will be added by me when I finish the course. :white_check_mark:
 
 ### Tools
 * OS: MacOS Catalina, v10.15.1
